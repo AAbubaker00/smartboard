@@ -1,0 +1,19 @@
+com.example.smartboard.app-work-runtime-2.7.0-0 /Users/Abu/.gradle/caches/transforms-3/0788b261b5f1c186d068c8d89bf931f5/transformed/work-runtime-2.7.0/res
+com.example.smartboard.app-jetified-window-1.0.0-beta04-1 /Users/Abu/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.smartboard.app-jetified-startup-runtime-1.0.0-2 /Users/Abu/.gradle/caches/transforms-3/51ebb132c7fa329ff7b390804f6d4148/transformed/jetified-startup-runtime-1.0.0/res
+com.example.smartboard.app-jetified-play-services-basement-18.1.0-3 /Users/Abu/.gradle/caches/transforms-3/58aa1384bde170d075503b845cfcf44c/transformed/jetified-play-services-basement-18.1.0/res
+com.example.smartboard.app-jetified-digital-ink-recognition-18.1.0-4 /Users/Abu/.gradle/caches/transforms-3/62d0b64181e8c7c1044ef5d64cd3579b/transformed/jetified-digital-ink-recognition-18.1.0/res
+com.example.smartboard.app-jetified-annotation-experimental-1.1.0-5 /Users/Abu/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.smartboard.app-jetified-play-services-base-18.1.0-6 /Users/Abu/.gradle/caches/transforms-3/781e5567158e59d38ee2b89930f9808b/transformed/jetified-play-services-base-18.1.0/res
+com.example.smartboard.app-core-1.6.0-7 /Users/Abu/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.smartboard.app-jetified-window-java-1.0.0-beta04-8 /Users/Abu/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.smartboard.app-debug-9 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/android/app/src/debug/res
+com.example.smartboard.app-main-10 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/android/app/src/main/res
+com.example.smartboard.app-pngs-11 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/app/generated/res/pngs/debug
+com.example.smartboard.app-resValues-12 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/app/generated/res/resValues/debug
+com.example.smartboard.app-rs-13 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/app/generated/res/rs/debug
+com.example.smartboard.app-mergeDebugResources-14 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.smartboard.app-mergeDebugResources-15 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.smartboard.app-merged_res-16 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/app/intermediates/merged_res/debug
+com.example.smartboard.app-packaged_res-17 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/google_mlkit_commons/intermediates/packaged_res/debug
+com.example.smartboard.app-packaged_res-18 /Users/Abu/Documents/Documents/Developer/Code/Flutter/smart board/smartboard/build/google_mlkit_digital_ink_recognition/intermediates/packaged_res/debug
